@@ -25,8 +25,6 @@ void swapByValue(int a, int b)
     int temp = b;
     b = a;
     a = temp;
-
-    
 }
 
 void swapByReference(int* a, int* b)
